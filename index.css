@@ -1,0 +1,16 @@
+body{
+
+    background-color: rgb(237, 237, 237);
+}
+.fa-solid{
+    color: rgb(255, 187, 0);
+    height: 10px;
+    width: 20px;
+    border: solid 1px black;
+}
+.top-header{
+    background-color: rgb(237, 237, 237);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
